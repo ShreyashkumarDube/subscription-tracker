@@ -93,11 +93,11 @@ Open [http://localhost:5500](http://localhost:5500) in your browser or any HTTP 
 
 ```json
 {
-  "name": "Javascript Mastery Elite Membership",
+  "name": "Amazon prime",
   "price": 139.00,
   "currency": "USD",
   "frequency": "monthly",
-  "category": "Entertainment",
+  "category": "entertainment",
   "startDate": "2025-01-20T00:00:00.000Z",
   "paymentMethod": "Credit Card"
 }
